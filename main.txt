@@ -3,7 +3,7 @@ line 2 edited
 line 3 edited 
 line 4 edited () changrd
 line 5 edited 
-line 6 edited
+line 6 edited bug fixed
 line 7
 line 8
 line 9
